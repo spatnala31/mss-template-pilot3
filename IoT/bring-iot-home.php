@@ -50,7 +50,7 @@
                <div class="row">
                   <br><br><br>
                   <div class="col-sm-6 text-left">
-                     <h1 class="heavy micro">Bring IoT Home</h1>
+                     <h1 class="heavy micro">Bring IoT images</h1>
                   </div>
                   <div class="col-sm-6 text-right">
                      <ul class="breadcrumb pull-right">
